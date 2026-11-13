@@ -1,2 +1,5 @@
-# asymmetric_catalytic_P_V_substitution
-Data repository for the title paper (see README.md)
+DFT structures for:
+
+**A Practical Catalytic Enantioselective Synthesis of Fully Heteroatom-Substituted P(V) Species**
+
+*(manuscript in preparation)*
